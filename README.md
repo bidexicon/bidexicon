@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I’m **Oloyede Bidemi**, a passionate and skilled **Data Analyst** with expertise in leveraging data to solve real-world problems and drive informed decision-making. With a strong foundation in both business and technical aspects of data analysis, I specialize in the following tools:
+Welcome to my GitHub profile! I’m **Oloyede Elizabeth Bidemi**, a passionate and skilled **Data Analyst** with expertise in leveraging data to solve real-world problems and drive informed decision-making. With a strong foundation in both business and technical aspects of data analysis, I specialize in the following tools:
 
 - **Microsoft Excel**: Advanced data manipulation, analysis, and visualization
 - **Microsoft Power BI**: Building interactive dashboards and reports for data visualization and insights
